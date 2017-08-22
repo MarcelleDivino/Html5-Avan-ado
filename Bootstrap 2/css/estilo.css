@@ -1,0 +1,94 @@
+body{
+  background-image: url("../img/fundosite.jpg");
+}
+
+#DivContainer{
+  background-color: white;
+  height: 1450px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#banner{
+  width:100%;
+  height:200px;
+}
+
+.né{
+  background-color: gray;
+  color: white;
+  border: 1px solid black;
+}
+
+#topSeries,#conteudo,#categoria,#topfilmes{
+  height: 100px;
+}
+
+#maisCategoria{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 110px;
+  background-color: blue;
+  margin-top: 10px;
+}
+
+#corpoMaisCategoria{
+  height: 70px;
+  background-color: white;
+
+}
+
+#tituloMaisCategoria,#tituloRankingSeries,#tituloTopFilmes{
+  color: white;
+}
+
+#rankingSeries,#topfilmes{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 1180px;
+  background-color: blue;
+  margin-top: 10px;
+}
+
+.corpoRankingSeries,.corpoRankingFilmes{
+  background-color: white;
+
+}
+
+#corpo{
+  background-color:white;
+  margin: auto;
+}
+.divImg{
+  margin-top: 8px;
+  margin-left: 65px;
+}
+
+#conteudo{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+  height: 1380px;
+  background-color:blue;
+}
+
+.corpoconteudo{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color:white;
+}
+
+.informacoes{
+  margin-top: 20px;
+}
+
+#pesquisar{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+#botaopesquisar{
+  margin-top: 15px;
+}
